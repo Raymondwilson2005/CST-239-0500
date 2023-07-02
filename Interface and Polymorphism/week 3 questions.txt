@@ -1,0 +1,10 @@
+
+Week 3 
+-----------------------
+answer 3 questions
+What was challenging?
+How polymorphism ready worked.They can have different class and same name with change of the parameters
+What did you learn?
+The interfaces , An abstract class contains an abstract keyword on the declaration whereas an Interface is a sketch that is used to implement a class.
+If you had more time, how would you improve on the project. 
+Im still watching videos and practicing the how use interface and abstract in java. 
