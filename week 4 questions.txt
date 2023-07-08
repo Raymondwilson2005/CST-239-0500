@@ -1,0 +1,10 @@
+
+Week4 
+-----------------------
+(answer 3 questions)
+What was challenging?
+The writing to a file and reading it . The Exception handing are easy to do. 
+What did you learn?
+When dealing with exceptions, for the best practices is handle one exception at time. and then add the next one in your code.
+If you had more time, how would you improve on the project. 
+Im still watching videos and practicing the how use reading and writing to a file in java. 
